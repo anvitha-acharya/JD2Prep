@@ -1,0 +1,12 @@
+streamlit==1.32.0
+PyMuPDF==1.23.26
+
+torch==2.1.2
+transformers==4.38.2
+sentence-transformers==2.5.1
+
+faiss-cpu==1.7.4
+
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+
